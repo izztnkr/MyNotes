@@ -46,4 +46,4 @@ GIVEN a note-taking application
 
 
   ## Links
-  [Link to deployed application](https://github.com/izztnkr)
+  [Link to deployed application](https://notesappvia.herokuapp.com/)
